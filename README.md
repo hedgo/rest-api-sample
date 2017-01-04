@@ -41,5 +41,11 @@ Pull requests are welcome. Expecting some android and i-os developer to contribu
 
 ## Release
 
+## AO
+- Projekt rozbity na moduly Maven. 
+- W POM wpis żeby deployować na tomcat automatycznie
+- przykład własnej annotacji GETRest,PostRest
+- Widać, że przemyślany kod. Do dalszej własnej analizy.
+
 
 
